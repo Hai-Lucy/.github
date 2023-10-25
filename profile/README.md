@@ -34,11 +34,9 @@ Visit [lucy.is-a.fun](https://lucy.is-a.fun/) to learn more!
 
 ----
 
-<p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/LRMN">
-    <img alt="Donation" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">
-  </a>
+## Join Server Discord
+<p align="center"> 
+  <a href="https://discord.gg/WFfjrQxnfH" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
 </p>
 
 ###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
