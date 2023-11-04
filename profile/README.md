@@ -33,7 +33,7 @@
 Visit [lucy.is-a.fun](https://lucy.is-a.fun/) to learn more!
 
 ## Thanks to 
-[![Deploy Button](https://cdn.hop.io/assets/deploy-button/button.svg)](https://console.hop.io/deploy-button)
+[![Deploy Button](https://cdn.hop.io/assets/deploy-button/button.svg)](https://hop.io/r/lrmn/deploy-button)
 
 ----
 
